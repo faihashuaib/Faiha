@@ -15,25 +15,29 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+       #### Bachelors in statistics
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+       Farook College                                                
+                                                                                                                                
+       The program is notable for its combination with actuarial science and mathematics
+    
+    time: 2021-now
   - content: >
-      #### Master in Arts
+      #### Higher secondary education
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+        The Model School,Abu Dhabi                                                   
+        Board : CBSE      ,                                   Stream : Science                                       
+        Percentage: 95%
+    time: 2019-2021
   - content: >
-      #### Master in Arts
+      #### Higher education
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+       The Model School,Abu Dhabi                                                                                                                      
+       Board : CBSE                                                           
+       Percentage: 95%
+    time: 2007-2019
   - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      
 
 experience:
   - content: >

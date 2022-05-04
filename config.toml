@@ -66,9 +66,9 @@ logo = "images/site-navigation/logo.png"
 
 [params.address]
 address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
+email = "faihashuaib01@gmail.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+phone = "+(91) 495 2440 660"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
