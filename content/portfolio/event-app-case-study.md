@@ -1,5 +1,5 @@
 ---
-title: Event App Case Study
+title: my first project
 date: 2020-08-12T18:07:16.000+06:00
 thumbnail: images/portfolio/portfolio-2.png
 service: Web Design, Branding
